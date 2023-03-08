@@ -1,5 +1,4 @@
-# Understanding Spring Boot, Maven, and RESTfull APi under 15 minutes!
-
+# Understanding Spring Boot, Maven, and RESTfull API in under 15 minutes!
 
 ## Prerequisites
 Before you get started, you need to make sure you have the following installed on your system:
@@ -25,8 +24,8 @@ Comments have been inserted through the codebase to make sure that the concepts 
 
 Clone this repository and create a fully fonctioning login/signup system!
 
-    git clone https://github.com/lhunter3/your-repository.git
+    git clone https://github.com/lhunter3/spring-login-signup-example.git
 
-Browse the UI src folder and
+Browse the UI src folder and begin now!
 
 
